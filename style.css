@@ -1,0 +1,83 @@
+.t
+{
+    background: linear-gradient(#4568DC, #B06AB3 );
+    color: white;
+
+}
+.t1
+{
+    background: linear-gradient(#e52d27, #b31217)
+}
+.t2
+{
+   
+    background: linear-gradient(#000,#61045F)
+}
+.t3
+{
+    background: linear-gradient(#e52d27,#000);
+}
+.block
+{
+    width: 270px;
+    height: 140px;
+    border-radius: 5px;
+    font-family:verdana, sans-serif;
+    margin-top: 40px;
+    
+}
+#main
+{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+   
+}
+
+.superhero
+{
+    height: 162px;
+    position: relative;
+    display: block;
+    margin: 0 auto;
+    float: left;
+    
+}
+.captain
+{
+    top: -22px;
+}
+.iron
+{
+    top: -22px;
+}
+.widow
+{
+    top: -22px;
+
+}
+.tee
+{
+    float: right;
+    display: block;
+    margin: 0;
+    margin-right: 10px;
+    color: white;
+}
+h4
+{
+    margin-top: 10px;
+   margin-bottom: 0%;
+   font-size: 12px;
+}
+p
+{
+    margin-top: 0%;
+    float: right;
+    font-size: 12px;
+    color: rgba(255, 255, 255, 0.5);
+}
+.widowtext
+{
+    margin-left: 30px;
+}
